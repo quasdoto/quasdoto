@@ -6,10 +6,6 @@ Web Developer & Web Designer
 *   🌍  I'm based in Russia
 *   🖥️  See my portfolio at [kkmihai.is-cool.dev](http://kkmihai.is-cool.dev/)
 *   ✉️  You can contact me at [kkmihai@proton.me](mailto:kkmihai@proton.me)
-  
-<a href="https://www.github.com/kkmihai" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/kkmihai?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" />
-</a>
 
 ### Skills 
 <p align="left">
@@ -19,4 +15,5 @@ Web Developer & Web Designer
 
 ### Socials
                   
-<p align="left"> <a href="https://www.dev.to/kkmihai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/kkMihai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kkmihai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/kkmihai1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" /> </picture> </a></p>
+* ✉️ Telegram: quasdoto
+* ✉️ Discord: zxcvrsed
