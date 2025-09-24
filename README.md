@@ -27,5 +27,5 @@ Java developer
 
 ### Socials
                   
-* ✉️ Telegram: quasdoto
+* ✉️ Telegram: hospitaler
 * ✉️ Discord: zxcvrsed
