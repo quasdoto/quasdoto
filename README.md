@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java developer
 
 *   🌍  I'm based in Russia
-*   🖥️  See my portfolio at <!--[kkmihai.is-cool.dev](http://kkmihai.is-cool.dev/)-->
-*   ✉️  You can contact me at <!--[kkmihai@proton.me](mailto:kkmihai@proton.me)-->
+*   🖥️  See my portfolio at [quasdoto.github.io](https://quasdoto.github.io/resume.github.io/index.html)
+*   ✉️  You can contact me at telegram [@hospitaler](https://t.me/hospitaler)
 
 ### Skills 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
